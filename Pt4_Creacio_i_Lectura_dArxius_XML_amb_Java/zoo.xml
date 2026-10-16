@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<zoo>
+    <animal id="1">
+        <nom>Pingüí</nom>
+        <especie>Aptenodytes forsteri</especie>
+        <aliment>Peix</aliment>
+        <edat>5</edat>
+    </animal>
+    <animal id="2">
+        <nom>Lleó</nom>
+        <especie>Panthera leo</especie>
+        <aliment>Carn</aliment>
+        <edat>8</edat>
+    </animal>
+</zoo>
